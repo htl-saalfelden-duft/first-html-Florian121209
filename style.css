@@ -1,0 +1,30 @@
+header {
+    color: darkmagenta;
+    border: 2px, solid, darkmagenta;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    margin-top: 1rem;
+    margin-bottom: 1rem; 
+    padding: 10px;
+    border: 1px, solid, black;
+}
+
+#motto {
+    padding: 5px;
+    border: 3px, solid, blue;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+#text {
+    color: blue;
+}
+
+footer {
+    background-color: bisque;
+    text-align: end;
+    padding: 5px;
+}
